@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">뉴스리더</string>
+    <string name="splash_description">최신 뉴스를 제공합니다\n뉴스의 키워드를 알아보세요\n뉴스를 클릭하여 원본뉴스를 볼 수 있습니다.</string>
+    <string name="spalsh_version">v %s</string>
+</resources>
